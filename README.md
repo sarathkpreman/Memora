@@ -1,16 +1,79 @@
-# React + Vite
+# 🧠 Memory Card Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple memory matching game where player flip cards and match identical pairs.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸 Project Screenshot
 
-## React Compiler
+![Memory Card Game](./src/assets/Completed%20Screenshot.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎴 Interactive card flipping
+- 🧠 Memory matching logic
+- 📊 Move counter
+- ⭐ Score tracking
+- 🔄 New Game reset functionality
+- 🎨 Modern responsive UI
+- ⚡ Fast performance with Vite
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- JavaScript
+- CSS3
+- Vite
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sarathkpreman/memory-card-game.git
+```
+
+Move into the project folder:
+
+```bash
+cd memory-card-game
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🎮 How to Play
+
+1. Click on a card to flip it
+2. Flip another card to find its matching pair
+3. Match all pairs to complete the game
+4. Try to finish with fewer moves
+
+---
+
+## 📌 Future Improvements
+
+- ⏱️ Timer feature
+- 🏆 Leaderboard system
+- 🔊 Sound effects
+- 🎚️ Difficulty levels
+- 🌙 Dark/Light theme toggle
+
+---
